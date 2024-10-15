@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Apr 10 15:31:40 2024\n"
+"POT-Creation-Date: Tue Oct 15 10:44:59 2024\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -44,6 +44,24 @@ msgstr ""
 
 #: Game.Levels.DemoWorld.L01_HelloWorld
 msgid "This last message appears if the level is solved."
+msgstr ""
+
+#: Game.Levels.DemoWorld.L01_HelloWorld
+msgid "Trivial topology"
+msgstr ""
+
+#: Game.Levels.DemoWorld.L01_HelloWorld
+msgid "Let's proof that a set X with the\n"
+"definition: U ⊆ X is open ∀ U ⊆ X is indeed\n"
+"a topology"
+msgstr ""
+
+#: Game.Levels.DemoWorld.L01_HelloWorld
+msgid ""
+msgstr ""
+
+#: Game.Levels.DemoWorld.L01_HelloWorld
+msgid ""
 msgstr ""
 
 #: Game.Levels.DemoWorld
