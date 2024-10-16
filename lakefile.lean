@@ -30,8 +30,6 @@ Note: If your package (like `mathlib` or `Std`) has tags of the form `v4.X.0` th
 you can use `require mathlib from git "[URL]" @ leanVersion`
  -/
 
-
-
 require mathlib from git "https://github.com/leanprover-community/mathlib4.git" @ leanVersion
 
 

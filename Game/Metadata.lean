@@ -2,6 +2,9 @@ import GameServer.Commands
 
 import Game.Tactics.FromMathlib
 
+import Game.Doc.Tactics
+import Game.Doc.Theorems
+
 -- import Mathlib.Tactic.Common
 
 /-! Use this file to add things that should be available in all levels.
