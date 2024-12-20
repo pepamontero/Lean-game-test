@@ -41,9 +41,8 @@ a topology"
 
 
 Statement Trivial.isOpen_inter (A B : Set ℝ) (hA : Trivial.IsOpen A) (hB : Trivial.IsOpen B) : Trivial.IsOpen (A ∩ B) := by
-  {
-    rw [Trivial.IsOpen_def]
-  }
+  rw [Trivial.IsOpen_def]
+  trivial
 
 NewTheorem Trivial.IsOpen_def
 
